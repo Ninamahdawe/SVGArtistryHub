@@ -1,7 +1,8 @@
-
 const userinput = require('./lib/userinput');
 const gensvg = require('./lib/gensvg');
 const writefile = require('./lib/writefile');
+const { Circle, Square, Triangle } = require('./shapes');
+
 
 async function initialize() {
     console.log("Welcome to SVGArtistryHub");
