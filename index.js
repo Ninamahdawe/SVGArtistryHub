@@ -1,7 +1,7 @@
 const userinput = require('./lib/userinput');
 const gensvg = require('./lib/gensvg');
 const writefile = require('./lib/writefile');
-const { Circle, Square, Triangle } = require('./shapes');
+const { Circle, Square, Triangle } = require('./lib/shapes');
 
 
 async function initialize() {
@@ -9,7 +9,7 @@ async function initialize() {
     const answers = await userinput.askUserInputs();
     const shape = new (answers.shape === 'Circle' ? Circle : answers.shape === 'Square' ? Square : Triangle)();
     shape.setColor(answers.shapeColor);
-    const svgContent = gensvg.generateSVG({ shape });
+    const svgContent = gensvg.generateSVG(answers);
     writefile.saveSVGToFile('logo.svg', svgContent);
     console.log('Generated logo.svg ')
 }
