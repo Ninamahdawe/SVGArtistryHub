@@ -8,6 +8,7 @@ async function initialize() {
     console.log("Welcome to SVGArtistryHub");
     const answers = await userinput.askUserInputs();
     const shape = new (answers.shape === 'Circle' ? Circle : answers.shape === 'Square' ? Square : Triangle)();
+    shape.setColor(answers.shapeColor);
     const svgContent = gensvg.generateSVG(answers)
     writefile.saveSVGToFile('logo.svg', svgContent);
     console.log('Generated logo.svg ')
