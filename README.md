@@ -37,28 +37,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Description
 
-The sole purpose of this project is for educational use
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[License Details](https://opensource.org/licenses/MIT)
-
-## Require
-
-JavaScript / JSON / 8.2.6
+SVGArtistry Hub Generator is a command-line tool that simplifies the process of creating and organizing SVG hubs. With this tool, you can easily create new hubs, add SVG files to existing hubs, manage hub metadata, and even generate previews for your SVG collections.
 
 ## Usage
 
-No special installation in order to observe and explore this project
-
 ## Installation
 
-No installation required
-
 ## Purpose
-
-Generate Readme.md file
 
 ## Github
 
@@ -71,5 +56,3 @@ Nina Mahdawe
 ## Email
 
 <a href = "mailto:Ninamahdawe@gmail.com">Ninamahdawe@gmail.com</a>
-
-[Command line walkthrough](https://drive.google.com/file/d/1R-GRTnvNy0zKMuiO0bn4hw5x6BztwW4T/view)
