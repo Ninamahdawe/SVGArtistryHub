@@ -51,3 +51,5 @@ The SVGArtistry Hub Generator includes dedicated tests for each shape.
 ## Github
 
 https://github.com/Ninamahdawe
+
+[Command line walkthrough](https://drive.google.com/file/d/195NC5DrqXsTDbocBUg_GnS7PpV77xHQ1/view)
