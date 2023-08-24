@@ -5,7 +5,7 @@ Welcome to the SVGArtistry Hub Generator! This tool is designed to help you crea
 ## Table of Contents
 
 - [Description](#description)
-- [Features] (#features)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Tests](#tests)
