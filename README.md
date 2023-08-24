@@ -4,12 +4,9 @@ Welcome to the SVGArtistry Hub Generator! This tool is designed to help you crea
 
 ## Table of Contents
 
-## Description
-
-## Features
-
-## Getting Started
-
+- Description
+- Features
+- Getting Started
 - Installation
 - Usage
 
