@@ -4,11 +4,11 @@ Welcome to the SVGArtistry Hub Generator! This tool is designed to help you crea
 
 ## Table of Contents
 
-- Description
-- Features
-- Getting Started
-- Installation
-- Usage
+- [Description](#description)
+- [Features] (#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
 
 ## User Story
 
@@ -40,6 +40,13 @@ Install dependencies: npm install
 
 After installation, you can use the SVGArtistry Hub Generator from the command line.
 Create a New SVG Hub
+
+## Test
+
+The SVGArtistry Hub Generator includes dedicated tests for each shape.
+
+- To run these shape tests, open your terminal and execute the following command:
+- jest
 
 ## Github
 
