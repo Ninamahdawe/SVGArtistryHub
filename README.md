@@ -9,8 +9,6 @@ Welcome to the SVGArtistry Hub Generator! This tool is designed to help you crea
 - Getting Started
 - Installation
 - Usage
-- Creating SVG Hubs
-- Managing SVG Files
 
 ## User Story
 
@@ -31,20 +29,18 @@ Organize SVG hubs by categories, themes, or any other criteria.
 Command-line interface for easy integration into your workflow.
 Extendable architecture, allowing for future plugin support
 
-## Usage
-
 ## Installation
 
-## Purpose
+Make sure you have Node.js installed on your system.
+Clone this repository: git clone https://github.com/your-username/svgartistry-hub-generator.git
+Navigate to the project directory: cd svgartistry-hub-generator
+Install dependencies: npm install
+
+## Usage
+
+After installation, you can use the SVGArtistry Hub Generator from the command line.
+Create a New SVG Hub
 
 ## Github
 
 (https://github.com/Ninamahdawe)
-
-## Name
-
-Nina Mahdawe
-
-## Email
-
-<a href = "mailto:Ninamahdawe@gmail.com">Ninamahdawe@gmail.com</a>
