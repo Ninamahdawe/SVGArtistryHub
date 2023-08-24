@@ -52,4 +52,4 @@ The SVGArtistry Hub Generator includes dedicated tests for each shape.
 
 https://github.com/Ninamahdawe
 
-[Command line walkthrough](https://drive.google.com/file/d/195NC5DrqXsTDbocBUg_GnS7PpV77xHQ1/view)
+[Command line walkthrough](<video src="SVG%201.mp4" controls title="Title"></video>)
