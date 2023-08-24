@@ -4,7 +4,7 @@ Welcome to the SVGArtistry Hub Generator! This tool is designed to help you crea
 
 ## Table of Contents
 
-- Introduction
+- Description
 - Features
 - Getting Started
 - Installation
@@ -21,6 +21,15 @@ SO THAT I don't have to pay a graphic designer
 ## Description
 
 SVGArtistry Hub Generator is a command-line tool that simplifies the process of creating and organizing SVG hubs. With this tool, you can easily create new hubs, add SVG files to existing hubs, manage hub metadata, and even generate previews for your SVG collections.
+
+## Features
+
+Create new SVG hubs with relevant metadata.
+Add SVG files to existing hubs with automatic categorization.
+Generate hub previews for quick visual reference.
+Organize SVG hubs by categories, themes, or any other criteria.
+Command-line interface for easy integration into your workflow.
+Extendable architecture, allowing for future plugin support
 
 ## Usage
 
